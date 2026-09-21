@@ -14,6 +14,9 @@
 
 ---
 
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1mPUE70_Cb3owrwopoarjEoWyw2g9wBrK/view?usp=sharing)
+
+---
 ## 🚀 About The Project
 
 **Data Transformer** is a practical SQL-based data analysis project created to demonstrate how raw relational data can be transformed into meaningful information.
